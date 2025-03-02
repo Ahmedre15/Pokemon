@@ -1,0 +1,283 @@
+#Ak{
+    background-image : url(https://www.kindpng.com/picc/m/169-1690836_johns-hopkins-logo-white-hd-png-download.png);
+ 
+ }
+ #Ahmed:hover{
+     background-color:white;
+     margin: 5px;
+ }
+ #Owais:hover{
+     background-color:white;
+     margin: 5px;
+ }
+ #Hasan:hover{
+     background-color:white;
+     margin: 5px;
+ }
+ #Affan:hover{
+     background-color:white;
+     margin: 5px;
+ }
+ #Sohail:hover{
+     background-color:white;
+     margin: 5px;
+ }
+ #Moiz:hover{
+     background-color:white;
+     margin: 5px;
+ }
+ nav-bar{
+     width: 10%;
+     text-size-adjust: 3px;
+     position: -ms-page;
+     display: inline;
+     background-color: white;
+ }
+ UL{
+    display: inline;
+    position: sticky;
+    top: 0;
+    margin-left: 50PX;
+    align-content: center;
+    margin-left: 60PX;
+   
+ }
+ li{
+    display: inline;
+    top: 0;
+    border: 1PX solid black;
+    padding: 2px;
+ }
+ #bd{
+     background-color:gray;
+     margin: 5px; 
+     position: sticky;
+ }
+ button{
+     background-color: rgb(252, 252, 252);
+     border-color: white;
+     position: sticky;
+     margin-left: 21PX;
+ }
+ #abc:hover{
+     background-color: red;
+     border-color: white;
+     position: sticky;
+   
+ }
+ #def:hover{
+     background-color: orangered;border-color: white;
+ }
+ #ghi:hover{
+     background-color: yellow;border-color: white;
+ }
+ #jkl:hover{
+     background-color: green;border-color: white;
+ }
+ #mno:hover{
+     background-color: blue;border-color: white;
+ }
+ #pqr:hover{
+     background-color: rgb(37, 104, 146);border-color: white;
+ }
+ #NEVER{
+    align-items: center;
+    border-radius: 10px;
+    padding: 300PX;
+    margin: 1800px;
+    
+ }
+ #Ok{
+    width: 50%;
+    border: 2px solid black;
+    background-color: rgb(51, 51, 192);
+    margin-left: 50px;border-radius: 10px;text-align: center;
+ }
+ #Not{
+    width: 100%;border-radius: 10px;
+ }
+ #Ok:hover{
+margin-top: 3px;border-radius: 10px;
+ }
+#Way{
+    width: 30%;
+    border: 2px solid black;
+    background-color: rgb(78, 49, 15);
+    margin-left: 552px;
+    margin-bottom: 600px;border-radius: 10px;
+    margin-top: -407px;
+    margin-right: -200px;text-align: center;
+}
+#Two{
+    width: 100%;border-radius: 10px;
+}
+#Way:hover{
+    margin-top: -400px;border-radius: 10px;
+     }
+     #FOUR{
+        width: 30%;
+        border: 2px solid black;
+        background-color: black;
+        margin-left: 552px;
+        margin-bottom: 600px;
+        margin-top: -601px;
+        margin-right: -200px;
+        color: white;border-radius: 10px;text-align: center;
+    }
+    #THREE{
+        width: 100%;border-radius: 10px;
+    }
+    #FOUR:hover{
+        margin-top: -597px;border-radius: 10px;
+         }
+         #FIVE{
+            width: 25%;
+            border: 2px solid black;
+            background-color: rgb(248, 75, 32);
+            margin-left: 49px;
+            margin-bottom: 600px;
+            margin-top: -847px;
+            margin-right: -201px;
+            color: white;border-radius: 10px;
+            text-size-adjust: 10PX;
+            text-align: center;
+        }
+        #SIX{border-radius: 10px;
+            width: 100%;
+            height: 120px;
+        }
+        #FIVE:hover{
+            margin-top: -851px;border-radius: 10px;
+             }
+             #SEVEN{
+                size: 2px;
+                text-align: center;border-radius: 10px;
+    
+             }
+             #EIGHT{
+                width: 25%;
+                border: 2px solid black;border-radius: 10px;
+                background-color: rgb(44, 255, 16);
+                margin-left: 298px;
+                margin-bottom: 600px;
+                margin-top: -917px;
+                margin-right: -201px;
+                color: white;
+                text-size-adjust: 10PX;
+                text-align: center;
+            }
+            #NINE{
+                width: 100%;border-radius: 10px;
+                height: 120px;
+            }
+            #EIGHT:hover{
+                margin-top: -921px;border-radius: 10px;
+                 }
+                 #NOMORE{
+                    width: 100%;
+                    margin-top: -600px;
+                 }
+                 #IMPORTED{
+                    background-color: rgb(59, 57, 57);
+                    margin-left: 800PX;
+                    size: 100px;
+                    text-size-adjust: 50PX;
+                 }
+                 #A{
+                    width: 30%;
+                    border: 2px solid rgb(0, 0, 0);
+                    background-color: rgb(228, 61, 61);
+                   float: right;
+                   margin-top: 250px;
+                 }
+                 #B{
+                    width: 100%;
+                    background-color: rgb(228, 61, 61);
+                 }
+                 #A:hover{
+                    margin: 247px;
+                    background-color: blue;
+                 }
+                 
+                 #C{
+                    width: 30%;
+                    border: 2px solid rgb(100, 194, 12);
+                    background-color: rgb(177, 39, 124);
+                 float: right;
+                 margin-top: 250px;
+                 }
+                 #D{
+                    width: 100%;
+                    background-color: rgb(53, 2, 2);
+    
+                 }
+                 #C:hover{
+                    margin: 247px;
+                    background-color: rgb(255, 0, 128);
+                 }#E{
+                    width: 30%;
+                    border: 2px solid rgb(238, 255, 0);
+                    background-color: rgb(95, 0, 0);
+                  float: right;
+                  margin-top: 250px;
+                 }
+                 #F{
+                    width: 100%;
+                    background-color: rgb(228, 61, 117);
+                 }
+                 #E:hover{
+                    margin: -3px;
+                    background-color: rgb(86, 90, 50);
+                 }#G{
+                    width: 30%;
+                    border: 2px solid rgb(0, 0, 0);
+                    background-color: rgb(236, 171, 171);
+              float: right;
+                 }
+                 #H{
+                    width: 100%;
+                    background-color: rgb(45, 187, 151);
+                 }
+                 #G:hover{
+                    margin: 2px;
+                    background-color: rgba(0, 193, 241, 0.322);
+                 }#I{
+                    width: 30%;
+                    border: 2px solid rgb(0, 0, 0);
+                    background-color: rgb(51, 3, 3);
+                   float: right;
+                 }
+                 #J{
+                    width: 100%;
+                    background-color: rgb(2, 33, 68);
+                 }
+                 #I:hover{
+                    margin: 2px;
+                    background-color: rgb(159, 159, 219);
+                 }#K{
+                    width: 30%;
+                    border: 2px solid rgb(0, 0, 0);
+                    background-color: rgba(75, 60, 68, 0.548);
+                   float: right;
+                 }
+                 #L{
+                    width: 100%;
+                    background-color: rgb(248, 248, 248);
+                 }
+                 #K:hover{
+                    margin: 2px;
+                    background-color: rgb(246, 255, 121);
+                 }
+               #Finish{
+                background-color: rgb(99, 93, 93);
+                display: contents;
+                width: 100%;
+               }
+               #By{
+                background-color: rgb(83, 83, 83);
+                width: 30%;
+               }
+               #Bas{
+                background-color: rgb(255, 251, 251);
+               }
+               
